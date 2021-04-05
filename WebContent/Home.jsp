@@ -7,6 +7,6 @@
 <title>Git</title>
 </head>
 <body>
-	<h1>Practicando con git</h1>
+	<h1>Git - Pagina web</h1>
 </body>
 </html>
